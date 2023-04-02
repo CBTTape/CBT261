@@ -1,0 +1,4 @@
+2023-04-02 23:02:37.681954 - Initialized conversion of CBT261
+2023-04-02 23:02:37.697296 - Received CBT.V504.FILE261.PDS from FILE261.XMI 
+2023-04-02 23:02:37.699448 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE261.PDS, moved to PDS/$$$#DATE
+2023-04-02 23:02:37.700443 - Found @FILE261.txt (text/plain) in CBT.V504.FILE261.PDS, moved to PDS/@FILE261
